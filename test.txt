@@ -3,4 +3,3 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 学习如何使用souretree可视化工具
-github全球最大的开源网站
