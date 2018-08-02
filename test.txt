@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 学习如何使用souretree可视化工具
 学习使用git版本管理工具
+测试souretree工具是否正常
