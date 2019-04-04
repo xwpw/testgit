@@ -11,9 +11,9 @@ $month=date('m',$time);
 $day=date('d',$time);
 
 class hello {
-    public function index() {
+    public function test() {
         return 'hello world!';
     }
 }
 $hello = new hello();
-echo $hello->index();
+echo $hello->test();
